@@ -21,7 +21,8 @@ public class ContaBancaria {
                 1 - Consultar saldo
                 2 - Transferir valor
                 3 - Depositar valor
-                4 - Sair
+                4 - Sair2
+                
                 """;
 
         while(opcao != 4) {
